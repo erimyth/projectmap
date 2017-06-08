@@ -1,0 +1,9 @@
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\TibiaCastDownloader\bin\Debug\tibiacast-downloader.exe
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\TibiaCastDownloader\bin\Debug\tibiacast-downloader.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\TibiaCastDownloader\obj\x86\Debug\tibiacast-downloader.exe
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\TibiaCastDownloader\obj\x86\Debug\tibiacast-downloader.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\TibiaCastDownloader\obj\x86\Debug\TibiaCastDownloader.csprojResolveAssemblyReference.cache
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\TibiaCastDownloader\bin\Debug\tibiacast-downloader.exe
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\TibiaCastDownloader\bin\Debug\tibiacast-downloader.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\TibiaCastDownloader\obj\x86\Debug\tibiacast-downloader.exe
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\TibiaCastDownloader\obj\x86\Debug\tibiacast-downloader.pdb

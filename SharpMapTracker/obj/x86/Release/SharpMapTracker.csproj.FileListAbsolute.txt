@@ -1,0 +1,43 @@
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\obj\x86\Release\SharpMapTracker.csprojResolveAssemblyReference.cache
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\obj\x86\Release\SharpMapTracker.MainForm.resources
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\obj\x86\Release\SharpMapTracker.MiniMap.resources
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\obj\x86\Release\SharpMapTracker.csproj.GenerateResource.Cache
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\bin\Release\SharpMapTracker.exe
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\bin\Release\SharpMapTracker.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\bin\Release\OpenTibiaCommons.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\bin\Release\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\bin\Release\OpenTibiaCommons.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\obj\x86\Release\SharpMapTracker.exe
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\obj\x86\Release\SharpMapTracker.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\bin\Release\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\bin\Release\SharpMapTracker.exe
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\bin\Release\SharpMapTracker.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\bin\Release\OpenTibiaCommons.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\bin\Release\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\bin\Release\OpenTibiaCommons.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\bin\Release\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\obj\x86\Release\SharpMapTracker.csprojResolveAssemblyReference.cache
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\obj\x86\Release\SharpMapTracker.MainForm.resources
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\obj\x86\Release\SharpMapTracker.MiniMap.resources
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\obj\x86\Release\SharpMapTracker.csproj.GenerateResource.Cache
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\obj\x86\Release\SharpMapTracker.exe
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\obj\x86\Release\SharpMapTracker.pdb
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\bin\Release\SharpMapTracker.exe
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\bin\Release\SharpMapTracker.pdb
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\bin\Release\OpenTibiaCommons.dll
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\bin\Release\SharpTibiaProxy.dll
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\bin\Release\OpenTibiaCommons.pdb
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\bin\Release\SharpTibiaProxy.pdb
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\obj\x86\Release\SharpMapTracker.csprojResolveAssemblyReference.cache
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\obj\x86\Release\SharpMapTracker.MainForm.resources
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\obj\x86\Release\SharpMapTracker.MiniMap.resources
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\obj\x86\Release\SharpMapTracker.Properties.Resources.resources
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\obj\x86\Release\SharpMapTracker.csproj.GenerateResource.Cache
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\obj\x86\Release\SharpMapTracker.exe
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\obj\x86\Release\SharpMapTracker.pdb
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\obj\x86\Release\SharpMapTracker.MainForm.pt-BR.resources
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\bin\Release\pt-BR\SharpMapTracker.resources.dll
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\obj\x86\Release\pt-BR\SharpMapTracker.resources.dll

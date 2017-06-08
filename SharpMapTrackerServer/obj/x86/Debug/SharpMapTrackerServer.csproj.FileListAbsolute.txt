@@ -1,0 +1,20 @@
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\bin\Debug\SharpMapTrackerServer.exe
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\bin\Debug\SharpMapTrackerServer.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\bin\Debug\OpenTibiaCommons.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\bin\Debug\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\bin\Debug\OpenTibiaCommons.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\bin\Debug\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\obj\x86\Debug\SharpMapTrackerServer.csprojResolveAssemblyReference.cache
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\obj\x86\Debug\SharpMapTrackerServer.exe
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\obj\x86\Debug\SharpMapTrackerServer.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\bin\Debug\SharpMapTrackerServer.exe
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\bin\Debug\SharpMapTrackerServer.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\bin\Debug\OpenTibiaCommons.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\bin\Debug\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\bin\Debug\OpenTibiaCommons.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\bin\Debug\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\obj\x86\Debug\SharpMapTrackerServer.csprojResolveAssemblyReference.cache
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\obj\x86\Debug\SharpMapTrackerServer.exe
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\obj\x86\Debug\SharpMapTrackerServer.pdb

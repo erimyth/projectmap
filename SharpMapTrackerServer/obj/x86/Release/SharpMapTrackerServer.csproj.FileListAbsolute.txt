@@ -1,0 +1,30 @@
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.csprojResolveAssemblyReference.cache
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\bin\Release\SharpMapTrackerServer.exe
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\bin\Release\SharpMapTrackerServer.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\bin\Release\OpenTibiaCommons.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\bin\Release\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\bin\Release\OpenTibiaCommons.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.exe
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTrackerServer\bin\Release\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\bin\Release\SharpMapTrackerServer.exe
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\bin\Release\SharpMapTrackerServer.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\bin\Release\OpenTibiaCommons.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\bin\Release\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\bin\Release\OpenTibiaCommons.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\bin\Release\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.csprojResolveAssemblyReference.cache
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.exe
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.pdb
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTrackerServer\bin\Release\SharpMapTrackerServer.exe
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTrackerServer\bin\Release\SharpMapTrackerServer.pdb
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTrackerServer\bin\Release\OpenTibiaCommons.dll
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTrackerServer\bin\Release\SharpTibiaProxy.dll
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTrackerServer\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTrackerServer\bin\Release\OpenTibiaCommons.pdb
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTrackerServer\bin\Release\SharpTibiaProxy.pdb
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.csprojResolveAssemblyReference.cache
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.exe
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.pdb

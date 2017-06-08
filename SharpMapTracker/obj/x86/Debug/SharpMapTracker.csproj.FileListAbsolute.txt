@@ -1,0 +1,26 @@
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\bin\Debug\SharpMapTracker.exe
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\bin\Debug\SharpMapTracker.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\bin\Debug\OpenTibiaCommons.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\bin\Debug\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\bin\Debug\OpenTibiaCommons.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\bin\Debug\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csprojResolveAssemblyReference.cache
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\obj\x86\Debug\SharpMapTracker.MainForm.resources
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\obj\x86\Debug\SharpMapTracker.MiniMap.resources
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csproj.GenerateResource.Cache
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\obj\x86\Debug\SharpMapTracker.exe
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpMapTracker\obj\x86\Debug\SharpMapTracker.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\bin\Debug\SharpMapTracker.exe
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\bin\Debug\SharpMapTracker.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\bin\Debug\OpenTibiaCommons.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\bin\Debug\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\bin\Debug\OpenTibiaCommons.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\bin\Debug\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csprojResolveAssemblyReference.cache
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\obj\x86\Debug\SharpMapTracker.MainForm.resources
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\obj\x86\Debug\SharpMapTracker.MiniMap.resources
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csproj.GenerateResource.Cache
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\obj\x86\Debug\SharpMapTracker.exe
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpMapTracker\obj\x86\Debug\SharpMapTracker.pdb

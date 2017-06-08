@@ -1,0 +1,16 @@
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\OpenTibiaCommons\bin\Debug\OpenTibiaCommons.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\OpenTibiaCommons\bin\Debug\OpenTibiaCommons.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\OpenTibiaCommons\bin\Debug\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\OpenTibiaCommons\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\OpenTibiaCommons\bin\Debug\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\OpenTibiaCommons\obj\Debug\OpenTibiaCommons.csprojResolveAssemblyReference.cache
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\OpenTibiaCommons\obj\Debug\OpenTibiaCommons.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\OpenTibiaCommons\obj\Debug\OpenTibiaCommons.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\OpenTibiaCommons\bin\Debug\OpenTibiaCommons.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\OpenTibiaCommons\bin\Debug\OpenTibiaCommons.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\OpenTibiaCommons\bin\Debug\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\OpenTibiaCommons\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\OpenTibiaCommons\bin\Debug\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\OpenTibiaCommons\obj\Debug\OpenTibiaCommons.csprojResolveAssemblyReference.cache
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\OpenTibiaCommons\obj\Debug\OpenTibiaCommons.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\OpenTibiaCommons\obj\Debug\OpenTibiaCommons.pdb

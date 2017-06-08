@@ -1,0 +1,2467 @@
+[Warning] Item 30001 in item.xml not found in items.otb
+[Warning] Item 30002 in item.xml not found in items.otb
+[Warning] Item 30003 in item.xml not found in items.otb
+[Warning] Item 30004 in item.xml not found in items.otb
+[Warning] Item 30005 in item.xml not found in items.otb
+[Warning] Item 30006 in item.xml not found in items.otb
+[Warning] Item 30007 in item.xml not found in items.otb
+[Warning] Item 30010 in item.xml not found in items.otb
+[Warning] Item 30011 in item.xml not found in items.otb
+[Warning] Item 30013 in item.xml not found in items.otb
+[Warning] Item 30014 in item.xml not found in items.otb
+[Warning] Item 30015 in item.xml not found in items.otb
+[Warning] Item 30019 in item.xml not found in items.otb
+[Warning] Item 30021 in item.xml not found in items.otb
+[Warning] Item 30026 in item.xml not found in items.otb
+[Warning] Item 30027 in item.xml not found in items.otb
+[Warning] Item 30028 in item.xml not found in items.otb
+[Warning] Item 30035 in item.xml not found in items.otb
+[Warning] Item 30043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.
+Can't load npc words file.
+[Warning] Item 30001 in item.xml not found in items.otb
+[Warning] Item 30002 in item.xml not found in items.otb
+[Warning] Item 30003 in item.xml not found in items.otb
+[Warning] Item 30004 in item.xml not found in items.otb
+[Warning] Item 30005 in item.xml not found in items.otb
+[Warning] Item 30006 in item.xml not found in items.otb
+[Warning] Item 30007 in item.xml not found in items.otb
+[Warning] Item 30010 in item.xml not found in items.otb
+[Warning] Item 30011 in item.xml not found in items.otb
+[Warning] Item 30013 in item.xml not found in items.otb
+[Warning] Item 30014 in item.xml not found in items.otb
+[Warning] Item 30015 in item.xml not found in items.otb
+[Warning] Item 30019 in item.xml not found in items.otb
+[Warning] Item 30021 in item.xml not found in items.otb
+[Warning] Item 30026 in item.xml not found in items.otb
+[Warning] Item 30027 in item.xml not found in items.otb
+[Warning] Item 30028 in item.xml not found in items.otb
+[Warning] Item 30035 in item.xml not found in items.otb
+[Warning] Item 30043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.
+[Warning] This client requires the version 3.57 of items.otb.
+Client successfully loaded.
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 00
+Last Packets: B4 17 0A 0F 64 79 79 78 79 78 78 79 79 79 79 A0 00 
+Packet Bytes: 00 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 17 0A 0F 64 78 79 78 78 78 78 78 78 79 79 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 83 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 83 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B5 83 8C B4 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6B 6A 6A 6C 6A 6C 6A 6A 6A 6C 6A A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 70 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 70 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 83 83 83 83 83 83 83 83 83 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C B4 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6B 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 70 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 6D 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 83 83 83 83 83 83 83 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 83 83 83 83 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C B4 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 83 83 83 83 83 83 83 83 83 83 83 83 83 83 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C B4 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C B4 6B 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C B4 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6B 6A 6A 6A 6A 6A 6A 6A 6A 6A 6A A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 6F A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 83 83 83 83 83 83 83 83 83 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 6B A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 83 83 83 83 83 83 83 83 83 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6C 6A 6C 6A 6C 6A 6C 6A 6C 6A 6C 6A 83 6C 6A 6C 6A 6C 6A 6C 6A A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 83 6D 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 83 6B 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6B 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 83 83 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 6C 6A 6C 6A 83 6C 6A 6C 6A 6C 6A 6C 6A 6C 6A 83 6C 6A 6C 6A 6C 6A 6C 6A A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 83 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 83 83 83 83 83 83 83 83 83 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6B 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: AA 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: AA 6B 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 83 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 B5 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 70 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 83 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6B 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C B4 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 83 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C B4 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C B4 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 6F A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 70 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 70 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 6F 6F A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 83 83 83 83 83 83 83 83 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 83 83 83 83 83 83 83 83 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6B 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 70 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 6F A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : [GetThing] (0x0062) Can't find the creature in the battle list.
+Last Packets: 6A 
+Packet Bytes: 6A CA 81 10 7E 0A 01 62 00 39 AC 19 40 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C B4 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 6F 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 83 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6B 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 68 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1E A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 70 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 70 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 6F A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 83 83 83 83 83 83 83 83 83 83 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A2 A2 6B 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 83 83 8C B4 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A2 A2 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 83 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D A2 A2 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 83 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 67 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 83 83 83 83 83 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6A 6A 6A 6A 6A 6A 6A 6A 83 6C 6A 6C 6A 6C 6A A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C B4 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 83 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 83 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6B 6C 6A 83 6A 6C 6A 6C 6A 6C 6A 6A 6C 6A 6C 6A 6C 6A A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 65 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 83 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C 83 B4 85 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 83 8C 83 B4 85 A4 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 93 A0 01 
+Packet Bytes: 01 
+[Warning] Item 30001 in item.xml not found in items.otb
+[Warning] Item 30002 in item.xml not found in items.otb
+[Warning] Item 30003 in item.xml not found in items.otb
+[Warning] Item 30004 in item.xml not found in items.otb
+[Warning] Item 30005 in item.xml not found in items.otb
+[Warning] Item 30006 in item.xml not found in items.otb
+[Warning] Item 30007 in item.xml not found in items.otb
+[Warning] Item 30010 in item.xml not found in items.otb
+[Warning] Item 30011 in item.xml not found in items.otb
+[Warning] Item 30013 in item.xml not found in items.otb
+[Warning] Item 30014 in item.xml not found in items.otb
+[Warning] Item 30015 in item.xml not found in items.otb
+[Warning] Item 30019 in item.xml not found in items.otb
+[Warning] Item 30021 in item.xml not found in items.otb
+[Warning] Item 30026 in item.xml not found in items.otb
+[Warning] Item 30027 in item.xml not found in items.otb
+[Warning] Item 30028 in item.xml not found in items.otb
+[Warning] Item 30035 in item.xml not found in items.otb
+[Warning] Item 30043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.
+[Warning] Item 30001 in item.xml not found in items.otb
+[Warning] Item 30002 in item.xml not found in items.otb
+[Warning] Item 30003 in item.xml not found in items.otb
+[Warning] Item 30004 in item.xml not found in items.otb
+[Warning] Item 30005 in item.xml not found in items.otb
+[Warning] Item 30006 in item.xml not found in items.otb
+[Warning] Item 30007 in item.xml not found in items.otb
+[Warning] Item 30010 in item.xml not found in items.otb
+[Warning] Item 30011 in item.xml not found in items.otb
+[Warning] Item 30013 in item.xml not found in items.otb
+[Warning] Item 30014 in item.xml not found in items.otb
+[Warning] Item 30015 in item.xml not found in items.otb
+[Warning] Item 30019 in item.xml not found in items.otb
+[Warning] Item 30021 in item.xml not found in items.otb
+[Warning] Item 30026 in item.xml not found in items.otb
+[Warning] Item 30027 in item.xml not found in items.otb
+[Warning] Item 30028 in item.xml not found in items.otb
+[Warning] Item 30035 in item.xml not found in items.otb
+[Warning] Item 30043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.
+[Warning] This client requires the version 3.57 of items.otb.
+Client successfully loaded.
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 00
+Last Packets: B4 17 0A 0F 64 79 79 78 79 78 78 79 79 79 79 A0 00 
+Packet Bytes: 00 
+Map successfully saved.
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 17 0A 0F 64 78 79 78 78 78 78 78 78 79 79 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 70 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 70 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 72 71 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 6F A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 6D 66 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+[Warning] Item 30001 in item.xml not found in items.otb
+[Warning] Item 30002 in item.xml not found in items.otb
+[Warning] Item 30003 in item.xml not found in items.otb
+[Warning] Item 30004 in item.xml not found in items.otb
+[Warning] Item 30005 in item.xml not found in items.otb
+[Warning] Item 30006 in item.xml not found in items.otb
+[Warning] Item 30007 in item.xml not found in items.otb
+[Warning] Item 30010 in item.xml not found in items.otb
+[Warning] Item 30011 in item.xml not found in items.otb
+[Warning] Item 30013 in item.xml not found in items.otb
+[Warning] Item 30014 in item.xml not found in items.otb
+[Warning] Item 30015 in item.xml not found in items.otb
+[Warning] Item 30019 in item.xml not found in items.otb
+[Warning] Item 30021 in item.xml not found in items.otb
+[Warning] Item 30026 in item.xml not found in items.otb
+[Warning] Item 30027 in item.xml not found in items.otb
+[Warning] Item 30028 in item.xml not found in items.otb
+[Warning] Item 30035 in item.xml not found in items.otb
+[Warning] Item 30043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.
+[Warning] This client requires the version 3.57 of items.otb.
+Client successfully loaded.
+Client unloaded.
+[Warning] Item 30001 in item.xml not found in items.otb
+[Warning] Item 30002 in item.xml not found in items.otb
+[Warning] Item 30003 in item.xml not found in items.otb
+[Warning] Item 30004 in item.xml not found in items.otb
+[Warning] Item 30005 in item.xml not found in items.otb
+[Warning] Item 30006 in item.xml not found in items.otb
+[Warning] Item 30007 in item.xml not found in items.otb
+[Warning] Item 30010 in item.xml not found in items.otb
+[Warning] Item 30011 in item.xml not found in items.otb
+[Warning] Item 30013 in item.xml not found in items.otb
+[Warning] Item 30014 in item.xml not found in items.otb
+[Warning] Item 30015 in item.xml not found in items.otb
+[Warning] Item 30019 in item.xml not found in items.otb
+[Warning] Item 30021 in item.xml not found in items.otb
+[Warning] Item 30026 in item.xml not found in items.otb
+[Warning] Item 30027 in item.xml not found in items.otb
+[Warning] Item 30028 in item.xml not found in items.otb
+[Warning] Item 30035 in item.xml not found in items.otb
+[Warning] Item 30043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.
+[Warning] This client requires the version 3.57 of items.otb.
+[Error] Unable to load tibia client. Details:    em SharpTibiaProxy.Network.Proxy.Enable() na C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpTibiaProxy\Network\Proxy.cs:linha 61
+   em SharpTibiaProxy.Domain.Client.EnableProxy() na C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpTibiaProxy\Domain\Client.cs:linha 294
+   em SharpMapTracker.MainForm.loadClientToolStripMenuItem_Click(Object sender, EventArgs e) na C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpMapTracker\MainForm.cs:linha 238
+[Warning] Item 30001 in item.xml not found in items.otb
+[Warning] Item 30002 in item.xml not found in items.otb
+[Warning] Item 30003 in item.xml not found in items.otb
+[Warning] Item 30004 in item.xml not found in items.otb
+[Warning] Item 30005 in item.xml not found in items.otb
+[Warning] Item 30006 in item.xml not found in items.otb
+[Warning] Item 30007 in item.xml not found in items.otb
+[Warning] Item 30010 in item.xml not found in items.otb
+[Warning] Item 30011 in item.xml not found in items.otb
+[Warning] Item 30013 in item.xml not found in items.otb
+[Warning] Item 30014 in item.xml not found in items.otb
+[Warning] Item 30015 in item.xml not found in items.otb
+[Warning] Item 30019 in item.xml not found in items.otb
+[Warning] Item 30021 in item.xml not found in items.otb
+[Warning] Item 30026 in item.xml not found in items.otb
+[Warning] Item 30027 in item.xml not found in items.otb
+[Warning] Item 30028 in item.xml not found in items.otb
+[Warning] Item 30035 in item.xml not found in items.otb
+[Warning] Item 30043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.
+[Warning] This client requires the version 3.57 of items.otb.
+Client successfully loaded.
+Client unloaded.
+[Warning] Item 30001 in item.xml not found in items.otb
+[Warning] Item 30002 in item.xml not found in items.otb
+[Warning] Item 30003 in item.xml not found in items.otb
+[Warning] Item 30004 in item.xml not found in items.otb
+[Warning] Item 30005 in item.xml not found in items.otb
+[Warning] Item 30006 in item.xml not found in items.otb
+[Warning] Item 30007 in item.xml not found in items.otb
+[Warning] Item 30010 in item.xml not found in items.otb
+[Warning] Item 30011 in item.xml not found in items.otb
+[Warning] Item 30013 in item.xml not found in items.otb
+[Warning] Item 30014 in item.xml not found in items.otb
+[Warning] Item 30015 in item.xml not found in items.otb
+[Warning] Item 30019 in item.xml not found in items.otb
+[Warning] Item 30021 in item.xml not found in items.otb
+[Warning] Item 30026 in item.xml not found in items.otb
+[Warning] Item 30027 in item.xml not found in items.otb
+[Warning] Item 30028 in item.xml not found in items.otb
+[Warning] Item 30035 in item.xml not found in items.otb
+[Warning] Item 30043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.
+[Warning] This client requires the version 3.57 of items.otb.
+Client successfully loaded.
+Client unloaded.
+[Warning] This client requires the version 3.57 of items.otb.
+Client successfully loaded.
+Client unloaded.
+[Warning] This client requires the version 3.57 of items.otb.
+Client successfully loaded.
+Client unloaded.
+[Warning] Item 30001 in item.xml not found in items.otb
+[Warning] Item 30002 in item.xml not found in items.otb
+[Warning] Item 30003 in item.xml not found in items.otb
+[Warning] Item 30004 in item.xml not found in items.otb
+[Warning] Item 30005 in item.xml not found in items.otb
+[Warning] Item 30006 in item.xml not found in items.otb
+[Warning] Item 30007 in item.xml not found in items.otb
+[Warning] Item 30010 in item.xml not found in items.otb
+[Warning] Item 30011 in item.xml not found in items.otb
+[Warning] Item 30013 in item.xml not found in items.otb
+[Warning] Item 30014 in item.xml not found in items.otb
+[Warning] Item 30015 in item.xml not found in items.otb
+[Warning] Item 30019 in item.xml not found in items.otb
+[Warning] Item 30021 in item.xml not found in items.otb
+[Warning] Item 30026 in item.xml not found in items.otb
+[Warning] Item 30027 in item.xml not found in items.otb
+[Warning] Item 30028 in item.xml not found in items.otb
+[Warning] Item 30035 in item.xml not found in items.otb
+[Warning] Item 30043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.
+[Warning] Item 30001 in item.xml not found in items.otb
+[Warning] Item 30002 in item.xml not found in items.otb
+[Warning] Item 30003 in item.xml not found in items.otb
+[Warning] Item 30004 in item.xml not found in items.otb
+[Warning] Item 30005 in item.xml not found in items.otb
+[Warning] Item 30006 in item.xml not found in items.otb
+[Warning] Item 30007 in item.xml not found in items.otb
+[Warning] Item 30010 in item.xml not found in items.otb
+[Warning] Item 30011 in item.xml not found in items.otb
+[Warning] Item 30013 in item.xml not found in items.otb
+[Warning] Item 30014 in item.xml not found in items.otb
+[Warning] Item 30015 in item.xml not found in items.otb
+[Warning] Item 30019 in item.xml not found in items.otb
+[Warning] Item 30021 in item.xml not found in items.otb
+[Warning] Item 30026 in item.xml not found in items.otb
+[Warning] Item 30027 in item.xml not found in items.otb
+[Warning] Item 30028 in item.xml not found in items.otb
+[Warning] Item 30035 in item.xml not found in items.otb
+[Warning] Item 30043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.
+[Warning] This client requires the version 3.57 of items.otb.
+Client successfully loaded.
+Client unloaded.
+[Warning] Item 30001 in item.xml not found in items.otb
+[Warning] Item 30002 in item.xml not found in items.otb
+[Warning] Item 30003 in item.xml not found in items.otb
+[Warning] Item 30004 in item.xml not found in items.otb
+[Warning] Item 30005 in item.xml not found in items.otb
+[Warning] Item 30006 in item.xml not found in items.otb
+[Warning] Item 30007 in item.xml not found in items.otb
+[Warning] Item 30010 in item.xml not found in items.otb
+[Warning] Item 30011 in item.xml not found in items.otb
+[Warning] Item 30013 in item.xml not found in items.otb
+[Warning] Item 30014 in item.xml not found in items.otb
+[Warning] Item 30015 in item.xml not found in items.otb
+[Warning] Item 30019 in item.xml not found in items.otb
+[Warning] Item 30021 in item.xml not found in items.otb
+[Warning] Item 30026 in item.xml not found in items.otb
+[Warning] Item 30027 in item.xml not found in items.otb
+[Warning] Item 30028 in item.xml not found in items.otb
+[Warning] Item 30035 in item.xml not found in items.otb
+[Warning] Item 30043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.
+[Warning] Item 30001 in item.xml not found in items.otb
+[Warning] Item 30002 in item.xml not found in items.otb
+[Warning] Item 30003 in item.xml not found in items.otb
+[Warning] Item 30004 in item.xml not found in items.otb
+[Warning] Item 30005 in item.xml not found in items.otb
+[Warning] Item 30006 in item.xml not found in items.otb
+[Warning] Item 30007 in item.xml not found in items.otb
+[Warning] Item 30010 in item.xml not found in items.otb
+[Warning] Item 30011 in item.xml not found in items.otb
+[Warning] Item 30013 in item.xml not found in items.otb
+[Warning] Item 30014 in item.xml not found in items.otb
+[Warning] Item 30015 in item.xml not found in items.otb
+[Warning] Item 30019 in item.xml not found in items.otb
+[Warning] Item 30021 in item.xml not found in items.otb
+[Warning] Item 30026 in item.xml not found in items.otb
+[Warning] Item 30027 in item.xml not found in items.otb
+[Warning] Item 30028 in item.xml not found in items.otb
+[Warning] Item 30035 in item.xml not found in items.otb
+[Warning] Item 30043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.
+[Warning] This client requires the version 3.57 of items.otb.
+Client successfully loaded.
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: B4 17 0A 0F 64 78 78 78 78 78 78 78 78 78 79 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8F A2 83 A4 A2 A5 A2 A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 1D 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 01
+Last Packets: 8C A0 01 
+Packet Bytes: 01 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 00
+Last Packets: B4 17 0A 0F 64 79 79 78 79 78 78 79 79 79 79 A0 00 
+Packet Bytes: 00 
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 00
+Last Packets: B4 17 0A 0F 64 79 79 78 79 78 78 79 79 79 79 A0 00 
+Packet Bytes: 00 
+[Warning] Item 30001 in item.xml not found in items.otb
+[Warning] Item 30002 in item.xml not found in items.otb
+[Warning] Item 30003 in item.xml not found in items.otb
+[Warning] Item 30004 in item.xml not found in items.otb
+[Warning] Item 30005 in item.xml not found in items.otb
+[Warning] Item 30006 in item.xml not found in items.otb
+[Warning] Item 30007 in item.xml not found in items.otb
+[Warning] Item 30010 in item.xml not found in items.otb
+[Warning] Item 30011 in item.xml not found in items.otb
+[Warning] Item 30013 in item.xml not found in items.otb
+[Warning] Item 30014 in item.xml not found in items.otb
+[Warning] Item 30015 in item.xml not found in items.otb
+[Warning] Item 30019 in item.xml not found in items.otb
+[Warning] Item 30021 in item.xml not found in items.otb
+[Warning] Item 30026 in item.xml not found in items.otb
+[Warning] Item 30027 in item.xml not found in items.otb
+[Warning] Item 30028 in item.xml not found in items.otb
+[Warning] Item 30035 in item.xml not found in items.otb
+[Warning] Item 30043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.
+[Warning] This client requires the version 3.57 of items.otb.
+Client successfully loaded.
+SharpMapTracker.exe Warning: 0 : ProtocolWorld [ParseServerMessage]: Unknown packet type 26
+Last Packets: B4 17 26 
+Packet Bytes: 26 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7C 7E DB 7D 07 01 7D 7E DB 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 82 7E E5 7D 07 02 82 7E E6 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E DB 7D 07 01 7D 7E DC 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 82 7E E6 7D 07 01 83 7E E6 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E DC 7D 07 01 7D 7E DB 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E DB 7D 07 01 7C 7E DB 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 83 7E E6 7D 07 01 83 7E E5 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7C 7E DB 7D 07 01 7D 7E DB 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 83 7E E5 7D 07 02 82 7E E5 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E DB 7D 07 01 7C 7E DB 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 82 7E E5 7D 07 02 82 7E E4 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7C 7E DB 7D 07 01 7C 7E DC 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7C 7E DC 7D 07 01 7C 7E DB 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 82 7E E4 7D 07 01 83 7E E4 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7C 7E DB 7D 07 01 7D 7E DB 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerTileRemoveThing] Tile not found.
+Last Packets: 6C 
+Packet Bytes: 6C 83 7E E4 7D 07 01 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E DB 7D 07 01 7D 7E DC 7D 07 
+SharpMapTracker.exe Warning: 0 : [GetThing] (0x0062) Can't find the creature in the battle list.
+Last Packets: 6A 
+Packet Bytes: 6A 83 7E E4 7D 07 01 62 00 FE 01 00 80 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E DC 7D 07 01 7D 7E DD 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E DD 7D 07 01 7E 7E DD 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 83 7E E4 7D 07 01 83 7E E5 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7E 7E DD 7D 07 01 7D 7E DD 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerTileRemoveThing] Tile not found.
+Last Packets: 6C 
+Packet Bytes: 6C 83 7E E5 7D 07 02 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E DD 7D 07 01 7C 7E DD 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7C 7E DD 7D 07 01 7C 7E DC 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerTileAddThing] Tile not found.
+Last Packets: 6A 
+Packet Bytes: 6A 79 7E DB 7D 07 01 61 00 00 00 00 00 92 30 00 10 00 0E 00 4C 69 74 74 6C 65 6B 6E 65 65 67 72 6F 77 64 03 82 00 4E 00 00 4E 03 E2 02 03 CC 47 04 00 00 05 00 00 FF 05 00 01 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 79 7E DB 7D 07 01 78 7E DC 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerTileAddThing] Tile not found.
+Last Packets: 6A 
+Packet Bytes: 6A 79 7E DC 7D 06 01 62 00 92 30 00 10 64 01 82 00 4E 00 00 4E 03 E2 02 03 CC 47 04 00 00 00 00 FF 05 00 01 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7C 7E DC 7D 07 01 7C 7E DD 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 79 7E DC 7D 06 01 78 7E DD 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 78 7E DD 7D 06 01 79 7E DE 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 79 7E DE 7D 06 01 78 7E DF 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 78 7E DF 7D 06 01 79 7E E0 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 79 7E E0 7D 06 01 7A 7E E0 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7A 7E E0 7D 06 02 7B 7E E0 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7B 7E E0 7D 06 01 7C 7E E0 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7C 7E E0 7D 06 01 7D 7E E0 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerTileTransformThing] Tile not found.
+Last Packets: 6B 
+Packet Bytes: 6B 7D 7E E1 7D 06 01 25 09 FF 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E E0 7D 06 01 7D 7E E1 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E E1 7D 06 01 7D 7E E2 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerTileTransformThing] Tile not found.
+Last Packets: 6B 
+Packet Bytes: 6B 7D 7E E1 7D 06 01 24 09 FF 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E E2 7D 06 01 7E 7E E2 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerTileAddThing] Tile not found.
+Last Packets: 6A 
+Packet Bytes: 6A 79 7E DB 7D 07 01 61 00 00 00 00 00 9B 34 00 10 00 0C 00 44 72 75 69 64 20 53 74 79 6C 65 7A 64 03 81 00 00 55 00 00 00 00 00 00 00 09 02 00 00 00 00 00 FF 00 00 01 
+SharpMapTracker.exe Warning: 0 : [ParseServerTileTransformThing] Tile not found.
+Last Packets: 6B 
+Packet Bytes: 6B 7E 7E E2 7D 06 01 63 00 92 30 00 10 03 00 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 79 7E DB 7D 07 01 78 7E DC 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7C 7E DD 7D 07 01 7D 7E DD 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerTileAddThing] Tile not found.
+Last Packets: 6A 
+Packet Bytes: 6A 79 7E DC 7D 06 01 62 00 9B 34 00 10 64 01 81 00 00 55 00 00 00 00 00 00 00 09 02 00 00 00 00 FF 00 00 01 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 79 7E DC 7D 06 01 79 7E DD 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 79 7E DD 7D 06 01 79 7E DE 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E DD 7D 07 01 7D 7E DC 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E DC 7D 07 01 7D 7E DB 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E DB 7D 07 01 7D 7E DC 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E DC 7D 07 01 7E 7E DC 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7E 7E DC 7D 07 01 7E 7E DD 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7E 7E DD 7D 07 01 7D 7E DD 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E DD 7D 07 01 7E 7E DD 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 79 7E DE 7D 06 01 78 7E DE 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 78 7E DE 7D 06 01 79 7E DE 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7E 7E DD 7D 07 01 7E 7E DC 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7E 7E DC 7D 07 01 7D 7E DC 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 79 7E DE 7D 06 01 78 7E DD 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 78 7E DD 7D 06 01 78 7E DC 7D 06 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 78 7E DD 7D 07 01 79 7E DC 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 79 7E DC 7D 07 01 79 7E DB 7D 07 
+SharpMapTracker.exe Warning: 0 : [ParseServerTileRemoveThing] Tile not found.
+Last Packets: 6C 
+Packet Bytes: 6C 79 7E DB 7D 07 01 
+SharpMapTracker.exe Warning: 0 : [ParseServerCreatureMove] Old tile not found.
+Last Packets: 6D 
+Packet Bytes: 6D 7D 7E DC 7D 07 01 7D 7E DB 7D 07 
+Client unloaded.
+[Warning] Item 30001 in item.xml not found in items.otb
+[Warning] Item 30002 in item.xml not found in items.otb
+[Warning] Item 30003 in item.xml not found in items.otb
+[Warning] Item 30004 in item.xml not found in items.otb
+[Warning] Item 30005 in item.xml not found in items.otb
+[Warning] Item 30006 in item.xml not found in items.otb
+[Warning] Item 30007 in item.xml not found in items.otb
+[Warning] Item 30010 in item.xml not found in items.otb
+[Warning] Item 30011 in item.xml not found in items.otb
+[Warning] Item 30013 in item.xml not found in items.otb
+[Warning] Item 30014 in item.xml not found in items.otb
+[Warning] Item 30015 in item.xml not found in items.otb
+[Warning] Item 30019 in item.xml not found in items.otb
+[Warning] Item 30021 in item.xml not found in items.otb
+[Warning] Item 30026 in item.xml not found in items.otb
+[Warning] Item 30027 in item.xml not found in items.otb
+[Warning] Item 30028 in item.xml not found in items.otb
+[Warning] Item 30035 in item.xml not found in items.otb
+[Warning] Item 30043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.

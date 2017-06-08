@@ -1,0 +1,37 @@
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Release\SharpTibiaProxy_MarkupCompile.cache
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Release\Util\ClientChooserWPF.baml
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Release\Util\ClientChooserWPF.g.cs
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Release\SharpTibiaProxy.g.resources
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Release\SharpTibiaProxy.Util.ClientChooser.resources
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Release\SharpTibiaProxy.csproj.GenerateResource.Cache
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\bin\Release\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\bin\Release\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Release\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Release\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Release\SharpTibiaProxy.csprojResolveAssemblyReference.cache
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\bin\Release\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\bin\Release\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Release\Util\ClientChooserWPF.baml
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Release\Util\ClientChooserWPF.g.cs
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Release\SharpTibiaProxy_MarkupCompile.cache
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Release\SharpTibiaProxy.g.resources
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Release\SharpTibiaProxy.Util.ClientChooser.resources
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Release\SharpTibiaProxy.csproj.GenerateResource.Cache
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Release\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Release\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Release\SharpTibiaProxy.csprojResolveAssemblyReference.cache
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpTibiaProxy\bin\Release\SharpTibiaProxy.dll
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpTibiaProxy\bin\Release\SharpTibiaProxy.pdb
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpTibiaProxy\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpTibiaProxy\obj\Release\SharpTibiaProxy.csprojResolveAssemblyReference.cache
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpTibiaProxy\obj\Release\Util\ClientChooserWPF.baml
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpTibiaProxy\obj\Release\Util\ClientChooserWPF.g.cs
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpTibiaProxy\obj\Release\SharpTibiaProxy_MarkupCompile.cache
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpTibiaProxy\obj\Release\SharpTibiaProxy.g.resources
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpTibiaProxy\obj\Release\SharpTibiaProxy.Properties.Resources.resources
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpTibiaProxy\obj\Release\SharpTibiaProxy.Util.ClientChooser.resources
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpTibiaProxy\obj\Release\SharpTibiaProxy.csproj.GenerateResource.Cache
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpTibiaProxy\obj\Release\SharpTibiaProxy.dll
+C:\Users\FelipeRD\Desktop\SharpMapTracker\SharpTibiaProxy\obj\Release\SharpTibiaProxy.pdb

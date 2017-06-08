@@ -1,0 +1,24 @@
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\OpenTibiaCommons\bin\Release\OpenTibiaCommons.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\OpenTibiaCommons\bin\Release\OpenTibiaCommons.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\OpenTibiaCommons\bin\Release\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\OpenTibiaCommons\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\OpenTibiaCommons\obj\Release\OpenTibiaCommons.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\OpenTibiaCommons\obj\Release\OpenTibiaCommons.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\OpenTibiaCommons\bin\Release\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\OpenTibiaCommons\obj\Release\OpenTibiaCommons.csprojResolveAssemblyReference.cache
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\OpenTibiaCommons\bin\Release\OpenTibiaCommons.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\OpenTibiaCommons\bin\Release\OpenTibiaCommons.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\OpenTibiaCommons\bin\Release\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\OpenTibiaCommons\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\OpenTibiaCommons\bin\Release\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\OpenTibiaCommons\obj\Release\OpenTibiaCommons.csprojResolveAssemblyReference.cache
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\OpenTibiaCommons\obj\Release\OpenTibiaCommons.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\OpenTibiaCommons\obj\Release\OpenTibiaCommons.pdb
+C:\Users\FelipeRD\Desktop\SharpMapTracker\OpenTibiaCommons\bin\Release\OpenTibiaCommons.dll
+C:\Users\FelipeRD\Desktop\SharpMapTracker\OpenTibiaCommons\bin\Release\OpenTibiaCommons.pdb
+C:\Users\FelipeRD\Desktop\SharpMapTracker\OpenTibiaCommons\bin\Release\SharpTibiaProxy.dll
+C:\Users\FelipeRD\Desktop\SharpMapTracker\OpenTibiaCommons\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\FelipeRD\Desktop\SharpMapTracker\OpenTibiaCommons\bin\Release\SharpTibiaProxy.pdb
+C:\Users\FelipeRD\Desktop\SharpMapTracker\OpenTibiaCommons\obj\Release\OpenTibiaCommons.csprojResolveAssemblyReference.cache
+C:\Users\FelipeRD\Desktop\SharpMapTracker\OpenTibiaCommons\obj\Release\OpenTibiaCommons.dll
+C:\Users\FelipeRD\Desktop\SharpMapTracker\OpenTibiaCommons\obj\Release\OpenTibiaCommons.pdb

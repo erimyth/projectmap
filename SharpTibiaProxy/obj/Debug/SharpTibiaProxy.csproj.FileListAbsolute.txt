@@ -1,0 +1,23 @@
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\bin\Debug\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\bin\Debug\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Debug\Util\ClientChooserWPF.baml
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Debug\Util\ClientChooserWPF.g.cs
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Debug\SharpTibiaProxy_MarkupCompile.cache
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.g.resources
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.Util.ClientChooser.resources
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.csproj.GenerateResource.Cache
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\Nova pasta\kk\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.csprojResolveAssemblyReference.cache
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Debug\Util\ClientChooserWPF.baml
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Debug\Util\ClientChooserWPF.g.cs
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Debug\SharpTibiaProxy_MarkupCompile.cache
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.g.resources
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.Util.ClientChooser.resources
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.csproj.GenerateResource.Cache
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\bin\Debug\SharpTibiaProxy.dll
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\bin\Debug\SharpTibiaProxy.pdb
+C:\Users\clenirsantos\Desktop\SharpMapTracker [Otserv Suporte]\kk\SharpTibiaProxy\bin\Debug\BouncyCastle.Crypto.dll
